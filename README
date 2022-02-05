@@ -9,7 +9,8 @@ Installation
 ------------
 Build dependencies: make, sass, inkscape, rsync, gtk3-widget-factory (for testing)
 
-'make -j8 install'
+'''make -j8 install
+export GTK_THEME=Adwaitha-Zenubrn'''
 
 Run 'make test' to see what the theme looks like.
 
