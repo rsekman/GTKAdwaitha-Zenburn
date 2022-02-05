@@ -7,17 +7,19 @@ Upstream URL: https://gitlab.gnome.org/GNOME/gtk/-/tree/gtk-3-24/gtk/theme/Adwai
 
 Installation
 ------------
-Build dependencies: make, sass, inkscape, rsync, gtk3-widget-factory (for testing)
+Build dependencies: `make, sass, inkscape, rsync, gtk3-widget-factory` (for testing)
 
-'''make -j8 install
-export GTK_THEME=Adwaitha-Zenubrn'''
+```bash
+make -j8 install
+export GTK_THEME=Adwaitha-Zenburn
+```
 
-Run 'make test' to see what the theme looks like.
+Run `make test` to see what the theme looks like.
 
 How to tweak the theme
 ----------------------
 
-Edit 'src/_colors.scss' to tweak the colours.
+Edit `src/_colors.scss` to tweak the colours.
 For other modifications see the upstream README.
 
 License
