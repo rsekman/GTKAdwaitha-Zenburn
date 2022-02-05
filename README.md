@@ -1,9 +1,9 @@
 Summary
 -------
 
-Recolouring of the GTK Adwaitha theme to in the spirit of Zenburn.
+Recolouring of the GTK3 Adwaitha theme in the spirit of Zenburn.
 
-Upstream URL: https://gitlab.gnome.org/GNOME/gtk/-/tree/gtk-3-24/gtk/theme/Adwaita/assets
+Upstream URL: https://gitlab.gnome.org/GNOME/gtk/-/tree/gtk-3-24/gtk/theme/Adwaita
 
 Installation
 ------------
