@@ -16,7 +16,7 @@ assets := $(addprefix build/assets/, $(addsuffix .png, $(asset_index)) $(addsuff
 # concatenate the string to each target
 # targets := $(addprefix $(prefix),$(targets))
 
-SASSC = sass -M -t compact
+SASSC = sass -q
 INKSCAPE = inkscape
 OPTIPNG = optipng
 
